@@ -1,0 +1,11 @@
+Heroes Of Pymoli Data Analysis
+
+The population of players is most decidedly male with men making up 84% of the players counted.
+
+Interestingly enough though, women are spending more on average than men
+
+The sweet spot in terms of age demographics is the 20-24 age group which makes up more than 44 percent of the players counted.
+
+However, as you would expect this age group may not have the most disposable income which probably explains why the most lucrative age group on a per player basis was the age 35-39 group.
+
+Oathbreaker is clearly the most popular game purchased and both in terms of numbers purchased and total revenue.
